@@ -31,7 +31,7 @@ def draw_cake(candle_offsets):
     draw.text((70, 24), "happy birthday", fill=(255,255,255))
     return img
 
-st.title('生热快乐！Happy Birthday')
+st.title('生日快乐！Happy Birthday')
 
 frame = st.empty()
 angles = [0, 0.7, 1.4]
